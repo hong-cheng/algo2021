@@ -32,7 +32,7 @@ public class BinarySearch {
 
     public static void main(String[] args) throws java.io.FileNotFoundException{
         ArrayList<Integer> ia = new ArrayList<Integer>();
-        String inputFile = "resources/integer_list.txt";
+        String inputFile = "algo2021/resources/integer_list.txt";
         int searchKey = 32;
 
         if (args.length>0) {
